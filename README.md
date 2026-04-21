@@ -18,6 +18,39 @@ Enable every business to create premium product visuals in minutes using AI, wit
 - Export-ready assets for ecommerce, ads, and social channels
 - Usage and revision tracking for operational visibility
 
+## Additional Built Features (Now Highlighted)
+
+These capabilities are already present in the current product build and were previously not listed in this GitHub showcase:
+
+- AI blend mode that combines a product image with an inspiration image for art direction transfer
+- Batch variant generation workflows for rapid multi-output creative testing
+- Export history center with filters and per-action activity breakdown
+- Workspace hubs for Assets, Templates, Brand Kits, and saved Projects
+- Brand Kit presets with reusable logos, palettes, and typography context
+- Onboarding profile capture with role, use case, category, channels, and starter template
+- Authentication suite with Email and Google sign-in plus password reset
+- Billing guardrails with monthly spend cap, alert threshold, usage visualization, and estimated AI cost
+- Export presets for key channels (Instagram post, Story/Reel, Meta ad, marketplace listing)
+- Scoped per-user storage keys to keep workspace and settings data isolated per account
+- Editor productivity controls including crop flows, safe-area preview, variant history, and theme/accent preferences
+
+## New Feature Spotlight: GenStudio Drop (Mobile to Desktop)
+
+Under development: users will be able to send photos from the GenStudio mobile app directly into their desktop workspace, similar to an AirDrop-style flow.
+
+Planned experience:
+
+- Open GenStudio mobile app and select product photos
+- Tap Send to Workspace to transfer instantly to the web editor
+- Photos appear directly inside Assets Hub, ready for AI generation
+- Secure session-based transfer with account-level ownership
+
+Why it matters for customers and investors:
+
+- Removes upload friction between phone capture and desktop editing
+- Speeds up content production for ecommerce teams and creators
+- Improves retention by connecting mobile capture to the main AI workflow
+
 ## AI Use Cases
 
 - Ecommerce product listing images for Shopify, Amazon, and marketplace stores
