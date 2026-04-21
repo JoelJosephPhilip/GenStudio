@@ -59,4 +59,4 @@ Enable every business to create premium product visuals in minutes using AI, wit
 
 For demos, early access, or partnership conversations, contact:
 
-- investor@genstudio.ai
+joeljophilipoffcial@gmail.com
